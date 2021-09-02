@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Currently Learning C++ <img align="center" alt="Rafa-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+
 <a href="https://github.com/tacklergamers/tacklergamers">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklergamers&theme=onedark&layout=compact"/>
 </a>
