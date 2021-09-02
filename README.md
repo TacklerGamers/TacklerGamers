@@ -2,6 +2,8 @@
 
 ### Currently Learning C++ <img align="center" alt="Rafa-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 
+### About Me: Currently Learning C++ and I am also posting some small projects which I make myself
+
 <a href="https://github.com/tacklergamers/tacklergamers">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklergamers&theme=onedark&layout=compact"/>
 </a>
