@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+<a href="https://github.com/tacklergamers/tacklergamers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklergamers&theme=onedark&layout=compact"/>
+</a>
 &nbsp;
 <a href="https://github.com/tacklergamers/tacklergamers">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacklergamers&theme=onedark&layout=default"/>
 </a>
+
 
 <!--
 **TacklerGamers/TacklerGamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
