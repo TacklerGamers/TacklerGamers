@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TacklerGamers&label=Profile%20views&color=9d0eb6&style=flat" alt="TacklerGamers" /> </p>
+
 ### Currently Learning C++ <img align="center" alt="Rafa-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 
 ### About Me: Currently Learning C++ and I am also posting some small projects which I make myself
